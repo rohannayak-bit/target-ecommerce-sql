@@ -19,7 +19,8 @@ The case study consists of **8 CSV files** representing different business entit
 - `sellers.csv` – seller location details  
 - `geolocation.csv` – geographic mapping data  
 
-  And this Repo consist of the Target case study.pdf of all the querys, output(screenshot), insights , recommendations and assumptions .
+  # And this Repo consist of the Target case study.pdf of all the querys, output(screenshot), insights , recommendations and assumptions .
+  
 --
 
 # Objectives
