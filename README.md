@@ -8,7 +8,7 @@ The analysis was performed using **SQL** with a focus on **business insights and
 --
 
 # Dataset Description
-The dataset consists of **8 CSV files** representing different business entities:
+The case study consists of **8 CSV files** representing different business entities:
 
 - `customers.csv` – customer demographic and location data  
 - `orders.csv` – order lifecycle and timestamps  
@@ -19,12 +19,13 @@ The dataset consists of **8 CSV files** representing different business entities
 - `sellers.csv` – seller location details  
 - `geolocation.csv` – geographic mapping data  
 
+  And this Repo consist of the Target case study.pdf of all the querys, output(screenshot), insights , recommendations and assumptions .
 --
 
 # Objectives
 - Perform exploratory data analysis (EDA)
 - Analyze order growth and seasonality
-- Study customer distribution across cities and states
+- Study customer distribution across cities and statesRR
 - Evaluate revenue, freight cost, and economic impact
 - Analyze delivery performance vs estimated timelines
 - Understand payment behavior and installment trends
