@@ -1,5 +1,5 @@
-## target-ecommerce-sql
-Target E-commerce Data Analysis Case Study By SQL
+## Target-ecommerce-sql
+Target E-commerce Data Analysis Case Study Using SQL
 
 # Project Overview
 This project analyzes a multi-table e-commerce dataset to uncover customer behavior, sales trends, payment patterns, and logistics performance across Brazil.  
